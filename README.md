@@ -8,6 +8,8 @@
 
 ## Installing Spark/Hadoop in Mac OSX Yosemite
 
-[Installing Spark](http://amodernstory.com/2015/03/05/installing-and-running-spark-with-python-notebook-on-mac/){:target="_blank"}
+[Installing Spark](http://amodernstory.com/2015/03/05/installing-and-running-spark-with-python-notebook-on-mac/)
 
-[Installing Hadoop](http://amodernstory.com/2014/09/23/installing-hadoop-on-mac-osx-yosemite/){:target="_blank"}
+[Installing Hadoop](http://amodernstory.com/2014/09/23/installing-hadoop-on-mac-osx-yosemite/)
+
+[bla]: http://brettterpstra.com target="_blank"
