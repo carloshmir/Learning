@@ -12,4 +12,4 @@
 
 [Installing Hadoop](http://amodernstory.com/2014/09/23/installing-hadoop-on-mac-osx-yosemite/)
 
-[bla]: http://brettterpstra.com target="_blank"
+
